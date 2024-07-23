@@ -1,5 +1,8 @@
 # TimeGPT for Time-Series Forecasting
 
+![prediction](https://github.com/user-attachments/assets/206064de-1440-402f-88ac-65552b2767bf)
+
+
 TimeGPT is a production-ready generative pretrained transformer for time series. It’s capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code.
 
 It is user-friendly and low-code. Users can simply upload their time series data and generate forecasts or detect anomalies with just a single line of code.
